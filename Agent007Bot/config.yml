@@ -1,0 +1,8 @@
+
+engine:
+  name: Stockfish
+  path: ./engines/stockfish
+books:
+  Perfect2023: "./engines/books/Perfect2023.bin"
+  Komodo: "./engines/books/Komodo.bin"
+  Titans: "./engines/books/Titans.bin"

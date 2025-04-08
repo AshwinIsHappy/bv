@@ -1,0 +1,1 @@
+# SpyMessages with 100 move announcements and dramatic game messages
