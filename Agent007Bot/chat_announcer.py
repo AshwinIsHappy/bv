@@ -1,1 +1,0 @@
-# Module to send cinematic announcements in game chat
